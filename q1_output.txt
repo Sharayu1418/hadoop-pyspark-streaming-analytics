@@ -1,0 +1,58 @@
+	
+============================================================	
+WORD COUNT WITH STATISTICS - ANALYSIS RESULTS	
+============================================================	
+	
+Word Frequencies (Top 20):	
+----------------------------------------	
+of: 10458	
+and: 9593	
+to: 6012	
+in: 4497	
+he: 3233	
+that: 3029	
+be: 2929	
+which: 2564	
+not: 2323	
+or: 2285	
+i: 1822	
+they: 1822	
+as: 1713	
+will: 1624	
+but: 1520	
+have: 1495	
+you: 1484	
+we: 1436	
+by: 1370	
+his: 1315	
+	
+	
+Word Length Distribution:	
+----------------------------------------	
+length_1: 2219	
+length_2: 39863	
+length_3: 33924	
+length_4: 38178	
+length_5: 23558	
+length_6: 15174	
+length_7: 14245	
+length_8: 9154	
+length_9: 8026	
+length_10: 4784	
+length_11: 2203	
+length_12: 1283	
+length_13: 519	
+length_14: 159	
+length_15: 54	
+length_16: 10	
+length_17: 8	
+length_18: 6	
+	
+	
+Statistics:	
+----------------------------------------	
+Total words: 193367	
+Unique words: 10418	
+Average word length: 4.59	
+============================================================	
+	

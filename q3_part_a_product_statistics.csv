@@ -1,0 +1,31 @@
+product_id,product_name,total_quantity,total_revenue,num_orders
+P001,Wireless Mouse,896,22391.04,286
+P002,USB-C Cable,804,10443.96,271
+P003,Laptop Stand,848,38584.0,288
+P004,Mechanical Keyboard,765,68842.35,251
+P005,Monitor 24-inch,775,154992.25,262
+P006,Webcam HD,895,53691.05,287
+P007,Desk Lamp LED,948,33170.52,293
+P008,Ergonomic Chair,708,212392.92,232
+P009,Bluetooth Headset,831,66471.69,271
+P010,External SSD 1TB,812,105551.88,258
+P011,Phone Charger,813,16251.87,265
+P012,HDMI Cable,689,10328.11,233
+P013,Mouse Pad,781,7802.19,266
+P014,Portable Battery,749,37442.51,255
+P015,Laptop Sleeve,909,27260.91,310
+P016,USB Hub,775,19367.25,255
+P017,Screen Protector,795,12712.05,258
+P018,Stylus Pen,893,35711.07,287
+P019,Cooling Pad,813,29259.87,262
+P020,Cable Organizer,859,11158.41,294
+P021,Wireless Keyboard,758,49262.42,265
+P022,Tablet Stand,824,16471.76,269
+P023,Smart Watch,863,215741.37,275
+P024,Fitness Tracker,824,82391.76,292
+P025,Noise Cancelling Headphones,789,236692.11,254
+P026,Portable Speaker,750,59992.5,251
+P027,Gaming Mouse,843,59001.57,286
+P028,Graphics Tablet,732,109792.68,250
+P029,Ring Light,909,40895.91,304
+P030,Microphone USB,724,65152.76,245
