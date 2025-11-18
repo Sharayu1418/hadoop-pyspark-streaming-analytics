@@ -46,7 +46,7 @@ Default input paths in the scripts assume a Jupyter/Spark lab environment, e.g.:
 - Q3 JSON orders: `/home/jovyan/shared/midterm/q3_orders.json`  
 - Q4 sensor data JSON: `/home/jovyan/shared/midterm/q4_sensor_data.json`
 
-You can override these by passing arguments on the command line (see details per question below).
+You can override these by passing arguments on the command line (see details below).
 
 ---
 
